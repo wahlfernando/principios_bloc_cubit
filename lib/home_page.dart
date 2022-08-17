@@ -20,7 +20,9 @@ class HomePage extends StatelessWidget {
               child: Text('Bloc', style: Theme.of(context).textTheme.headlineMedium,),
             ),
             TextButton(
-              onPressed: () {},
+              onPressed: () {
+                Navigator.of(context).pushNamed('/cubit');
+              },
               child: Text('Cubit', style: Theme.of(context).textTheme.headlineMedium),
             ),
           ],
