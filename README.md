@@ -1,16 +1,18 @@
 # counter_bloc
 
-A new Flutter project.
+## Aulas Academia do Flutter
 
-## Getting Started
+Projeto inicial com Bloc para entender o que exatemente o Bloc faz e como ele funciona, todo o conteudo foi utilizado o padrão de escrever o bloc diretamente sem utilização de pacotes. 
 
-This project is a starting point for a Flutter application.
+# Autor
 
-A few resources to get you started if this is your first Flutter project:
+Fernando Alexandre Wahl
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Linkedin: https://www.linkedin.com/in/fernando-alexandre-wahl-4246b053/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<p align="center"> Visitas: </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wahlfernando/count.svg" /></p>
+
+
+
